@@ -1,7 +1,7 @@
 import { test, chromium } from '@playwright/test';
 import * as fs from 'fs';
 
-const ID = 'minji199310@gmail.com';
+const ID = '@gmail.com';
 const PW = 'kim12341234!';
 const STATE_FILE = 'auth.json';
 const COUNTER_FILE = 'counter.json';
